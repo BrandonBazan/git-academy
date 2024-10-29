@@ -1,2 +1,1 @@
 # git-academy
-# Hello World!
